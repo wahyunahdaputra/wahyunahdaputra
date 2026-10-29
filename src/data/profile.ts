@@ -13,7 +13,7 @@ export const profile = {
   description:
     "Saya adalah lulusan S1 Teknik Informatika yang memiliki pengalaman dalam pengelolaan infrastruktur IT, jaringan komputer, troubleshooting perangkat keras, serta pengembangan aplikasi berbasis web. Saya berfokus pada solusi teknologi yang efisien, andal, dan berkelanjutan.",
   /** Put your photo in /public (e.g. /public/profile.jpg) and set "/profile.jpg". Empty = elegant placeholder. */
-  photo: "public/wahyuu.png",
+  photo: "/public/wahyuu.png",
   /** Put your CV in /public (e.g. /public/cv.pdf) and set "/cv.pdf". Empty = button shows "CV coming soon". */
   cvUrl: "",
   education: "S1 Teknik Informatika",
