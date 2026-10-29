@@ -31,7 +31,7 @@ export const experiences: Experience[] = [
         title: "IT Technical Training",
         date: "October 2026",
         description: "Materi: Network, Computer Hardware, Printer, and CCTV Troubleshooting.",
-        photos: ['/public/tr1.png', '/public/tr2.png'],
+        photos: ['/tr1.png', '/tr2.png'],
       },
     ],
   },
